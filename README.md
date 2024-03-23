@@ -72,6 +72,6 @@ Este juego de Pong mejorado ofrece una experiencia personalizable e interactiva 
 https://youtu.be/p7wXpiXEoJU
 
 ## Integrantes
-Cleber Gerardo Pérez Galicia    	A01236390
-Gabriel Máynez Garcia 		      A01236355
-Fabián Treviño Villarreal 		   A01369765
+- Cleber Gerardo Pérez Galicia    	A01236390
+- Gabriel Máynez Garcia 		      A01236355
+- Fabián Treviño Villarreal 		   A01369765
