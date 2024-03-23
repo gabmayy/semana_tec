@@ -68,5 +68,10 @@ Siéntete libre de modificar el código para agregar nuevas características o c
 
 Este juego de Pong mejorado ofrece una experiencia personalizable e interactiva para dos jugadores. Con controles fáciles de entender y dificultad ajustable, es adecuado para jugadores de todas las edades. 
 
+## Video
+https://youtu.be/p7wXpiXEoJU
 
-Video: https://youtu.be/p7wXpiXEoJU
+## Integrantes
+Cleber Gerardo Pérez Galicia    	A01236390
+Gabriel Máynez Garcia 		      A01236355
+Fabián Treviño Villarreal 		   A01369765
